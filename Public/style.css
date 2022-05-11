@@ -1,0 +1,13 @@
+header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+    font-family: arial;
+    font-style: italic;
+}
+
+.synopsis {
+    text-decoration: none;
+}
